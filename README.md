@@ -1,18 +1,18 @@
 
 # Progressive Web Apps - Complete Guide
 
-## Introdu√√o
+## Introdu√ß√£o
 
-Progressive Web Apps s√o experi√ncias que combinam o melhor da Web e o melhor dos aplicativos.
+Progressive Web Apps s√£o experi√™ncias que combinam o melhor da Web e o melhor dos aplicativos.
 
 ## O que √© um Progressive Web App?
 
-Um Progressive Web App √:
-   * Progressivo - Funciona para qualquer usu√rio, independentemente do navegador escolhido, pois √©criado com aprimoramento progressivo como principio funcdamental.
+Um Progressive Web App ?:
+   * Progressivo - Funciona para qualquer usu√°rio, independentemente do navegador escolhido, pois √© criado com aprimoramento progressivo como principio fundamental.
    * Responsivo -  Se adequa a qualquer formato: desktop, celular, tablet ou o que for inventado a seguir.
    * Independente de conectividade - Aprimorado com service workers para trabalhar off-line ou em rede de baixa qualidade.
-   * Semelhante a aplicativo - Parece como um aplicativos para os usu√rios, com interacoes e navegacoes de estilo de aplicativos, pois √© compilado no modelo de shell de aplicativo.
-   * Atual -  Sempre atualizado gra√as ao processo de atualizacao do service worker.
+   * Semelhante a aplicativo - Parece como um aplicativos para os usu√°rios, com interacoes e navegacoes de estilo de aplicativos, pois √© compilado no modelo de shell de aplicativo.
+   * Atual -  Sempre atualizado gra√ßas ao processo de atualizacao do service worker.
    * Seguro - Fornecido via HTTPS para evitar invasoes e garantir que o conteudo nao seja adulterado.
    * Descobrivel - Pode ser identificado como "aplicativo" gracas aos manifestos W3C e ao escopo de registro do service worker, que permitem que os mecanismos de pesquisa os encontrem.
    * Reenvolvente - Facilita o reengajamento com recursos como notificao push.
