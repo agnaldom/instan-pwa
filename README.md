@@ -21,7 +21,11 @@ Um Progressive Web App ?:
 
 ## Links para saber mais
 * [Progressive Web Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)
-
+* [Why Progressive Web Apps Are The Future Of Web Development](https://www.applause.com/blog/application-shell-architecture/)
+* [Progressive Web Apps: ready for primetime](http://www.brucelawson.co.uk/2015/progressive-web-apps-ready-for-primetime/)
+* [Making a Progressive App with ServiceWorker](https://ponyfoo.com/articles/progressive-app-serviceworker)
+* [Progressive Web Apps Are the Future](https://dev.opera.com/blog/progressive-web-apps-future/)
+* [Seu primeiro Progressive Web App | Web | Google Developers](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=pt-br)
 
 This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.
 
