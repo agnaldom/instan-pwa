@@ -17,7 +17,10 @@ Um Progressive Web App ?:
    * Descobrivel - Pode ser identificado como "aplicativo" gracas aos manifestos W3C e ao escopo de registro do service worker, que permitem que os mecanismos de pesquisa os encontrem.
    * Reenvolvente - Facilita o reengajamento com recursos como notificao push.
    * Instalavel - Permite que os usuarios "guardem" os aplicatios mas uteis em suas telas iniciais sem precisar acessar uma loja de aplicativo.
-   * Linkavel - Compartilhe facilmente por URL, nao requer instalacoa complexa.
+   * Linkavel - Compartilhe facilmente por URL, nao requer instalação complexa.
+
+## Links para saber mais
+* [Progressive Web Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)
 
 
 This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.
